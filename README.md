@@ -1,5 +1,10 @@
 # TensorFlow Examples / Fork for UCSD:CSE255/DSE230
 
+## Resources
+* To p-resent a notebook as slides (allows live execution) use https://github.com/damianavila/RISE
+* The web site for the class is https://mas-dse.github.io/DSE230/
+* Installation directions for the students are at https://mas-dse.github.io/DSE230/installation/
+
 ## Tasks
 
 1. Initially, deploy and run notebooks on laptop.
