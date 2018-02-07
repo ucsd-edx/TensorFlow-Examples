@@ -2,8 +2,12 @@
 
 ## Tasks
 
-1. Select a subset of the notebooks and make them into presentations. Total of 8 presentations, 10 minutes each.
-2. Design a HW notebook, to be graded using [nbgrader](https://nbgrader.readthedocs.io/en/stable/)
+1. Initially, deploy and run notebooks on laptop.
+  1. Select a subset of the notebooks and make them into presentations. Total of 8 presentations, 10 minutes each.
+  2. Design two HW notebooks, to be graded using [nbgrader](https://nbgrader.readthedocs.io/en/stable/) (Use both visible and hidden tests). The first notebook should be simple, the second with a more challanging problem that requires a GPU machine.
+2. Deploy on a GPY machine on the cloud.
+  3. Figure out how to deploy TensorFlow and the notebooks one a GPU machine on UCSD resources (CInfo)
+  3. Figure out how to deploy 
 
 This tutorial was designed for easily diving into TensorFlow, through examples. For readability, it includes both notebooks and source codes with explanation.
 
