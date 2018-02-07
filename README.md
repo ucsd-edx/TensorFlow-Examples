@@ -1,4 +1,9 @@
-# TensorFlow Examples
+# TensorFlow Examples / Fork for UCSD:CSE255/DSE230
+
+## Tasks
+
+1. Select a subset of the notebooks and make them into presentations. Total of 8 presentations, 10 minutes each.
+2. Design a HW notebook, to be graded using [nbgrader](https://nbgrader.readthedocs.io/en/stable/)
 
 This tutorial was designed for easily diving into TensorFlow, through examples. For readability, it includes both notebooks and source codes with explanation.
 
